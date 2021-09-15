@@ -1,4 +1,5 @@
 # Anoninews
+**Tecnologia**
 **Microsoft abrirá en Barcelona un centro de I+D centrado en inteligencia artificial**
 
 La compañía tiene previsto reclutar a un centenar de profesionales para personalizar la navegación en sus productos web
