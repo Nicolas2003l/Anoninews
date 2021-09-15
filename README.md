@@ -46,7 +46,15 @@ Duque hizo una férrea defensa de su gestión. Y reveló, una vez más, una imag
 
 Este presidente ha sido calificado por analistas y políticos que lo conocen como una persona terca. Diana Calderón –en su libro entrevista De Frente y a Fondo– dice que es alguien con “una mirada sobredimensionada de sí mismo”; y el analista senior de El Tiempo, Ricardo Ávila, señala que es “muy llevado y motivado de su parecer”.
 
-Varias de las respuestas que entregó a El Tiempo muestran ese carácter. Una defensa de sus políticas que seguramente repetirá esta semana fuera de Colombia, en España y luego en la Asamblea de la ONU en Nueva York
+Varias de las respuestas que entregó a El Tiempo muestran ese carácter. Una defensa de sus políticas que seguramente repetirá esta semana fuera de Colombia, en España y luego en la Asamblea de la ONU en Nueva York.
+
+
+### Politica: Internacional ###
+
+Biden y Xi dialogan para evitar el “conflicto” en una rivalidad cada vez más tensa
+
+
+
 
 
 
