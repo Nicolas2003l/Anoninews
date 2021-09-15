@@ -34,3 +34,19 @@ Kilos que puede levantar en peso muerto: hasta 68 kilos
 Kilos que puede transportar: hasta 20 kilos.
 
 Con un diseño externo ciertamente tan futurista como aséptico y un punto inquietante -parece un maniquí de exposición-, como señala su anuncio el robot es un dispositivo bípedo para "uso general", y que está destinado para llevar a cabo tareas "inseguras, repetitivas o aburridas" actualmente efectuadas por humanos.
+
+**Politica:Colombia**
+
+El presidente Iván Duque dio un auto-diagnóstico de su Gobierno en una entrevista a El Tiempo el domingo, justo después de una semana agridulce políticamente: la coalición aprobó su reforma tributaria, pero a las 24 horas por falta de apoyo político, el mandatario tuvo que pedirle la renuncia a su amiga y ministra, Karen Abudinen.
+
+![ivan-duque-la-ministra-karen-abudinen-es-una-mujer-honorable-y-trabajadora-942370](https://user-images.githubusercontent.com/72399878/133370673-64ea3949-4a4c-48a7-8e56-da27c1225d08.jpg)
+
+
+Duque hizo una férrea defensa de su gestión. Y reveló, una vez más, una imagen propia y de su mandato lejana de la que tienen la mayoría de colombianos.
+
+Este presidente ha sido calificado por analistas y políticos que lo conocen como una persona terca. Diana Calderón –en su libro entrevista De Frente y a Fondo– dice que es alguien con “una mirada sobredimensionada de sí mismo”; y el analista senior de El Tiempo, Ricardo Ávila, señala que es “muy llevado y motivado de su parecer”.
+
+Varias de las respuestas que entregó a El Tiempo muestran ese carácter. Una defensa de sus políticas que seguramente repetirá esta semana fuera de Colombia, en España y luego en la Asamblea de la ONU en Nueva York
+
+
+
