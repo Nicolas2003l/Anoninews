@@ -112,7 +112,7 @@ Tanta es la preocupación que diarios locales no tuvieron piedad con el equipo d
 ‘AS’ tituló: “OTRO BAÑO”, con la imagen de Robert Lewandowski y Gerard Piqué de fondo. “El Bayern vuelve a pasar por encima del equipo de Koeman. Ni un solo disparo de los azulgranas en todo el partido. Doblete de Lewandowski. Piqué y su técnico se resignan: ‘Esto es lo que hay ahora’”, amplió el medio.
 ‘Mundo Deportivo’ fue un poco más austero y tituló con el ya aclamado “ES LO QUE HAY”, de Piqué. “El Bayern volvió a evidenciar su superioridad ante un Barça impotente... La entrada de los jóvenes, lo único positivo de un equipo que no chutó entre los tres palos”, se complementó.
 
-## Futbol:Europa ##
+## Futbol: Europa ##
 
 ### Balonazo de Cristiano a un agente de seguridad en Champions ###
 
