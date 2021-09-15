@@ -1,4 +1,4 @@
-backgroun(255)
+
 # Anoninews
 
 ## Tecnologia ##
