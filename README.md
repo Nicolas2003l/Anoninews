@@ -80,7 +80,17 @@ El colectivo de ciberactivistas Anonymous le declaró la guerra al presidente de
 ![anonymous_wall_62](https://user-images.githubusercontent.com/72399878/133372310-7b0f7063-f6bd-4283-816a-b5fb1e8762cf.png)
 
 
+### Programacion ###
 
+## Para qué programar cuando una máquina lo hace (un poco) por ti: así es Github Copilot, un sistema que se nutre del prodigioso GPT-3 ##
+
+Microsoft ya avanzó datos sobre su integración en sus herramientas de desarrollo en su conferencia BUILD 2021, y ahora eso se complementa con el lanzamiento de GitHub Copilot, un sorprendente servicio capaz de asistir a los desarrolladores escribiendo porciones de código y sugerencias que les ayuden en su día a día.
+
+El sistema de Microsoft y GitHub no tiene como objetivo reemplazar a los desarrolladores, sino ser un asistente para que puedan trabajar de forma más ágil evitando la carga de algunas tareas repetitivas.
+
+El sistema está basado en Codex, un nuevo sistema de inteligencia artificial creado por OpenAI, que es la misma organización que se encargó de desarrollar el motor GPT-3. Codex funciona de forma similar, y como explican sus responsables "entiende significativamente más contexto que la mayoría de asistentes de código" y "sintetiza código" a partir del contexto proporcionado por el programador.
+
+![1366_2000](https://user-images.githubusercontent.com/72399878/133372613-48982ff3-c5fd-40ce-8ae1-0305bc3ba1dd.jpeg)
 
 
 
