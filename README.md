@@ -95,7 +95,7 @@ El sistema está basado en Codex, un nuevo sistema de inteligencia artificial cr
 
 # Deportes
 
-##Los azulgranas volvieron a salir goleados del Camp Nou##
+## Los azulgranas volvieron a salir goleados del Camp Nou ##
 
 
 Barcelona volvió a perder en casa contra el Bayern Múnich, en la Liga de Campeones, aunque no tan fuerte como el 2-8 de mediados del año pasado. Sin embargo, el 0-3 de este martes fue un duro golpe para el ánimo del plantel. 
