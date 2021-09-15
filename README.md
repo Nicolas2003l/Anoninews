@@ -101,7 +101,9 @@ El sistema está basado en Codex, un nuevo sistema de inteligencia artificial cr
 Barcelona volvió a perder en casa contra el Bayern Múnich, en la Liga de Campeones, aunque no tan fuerte como el 2-8 de mediados del año pasado. Sin embargo, el 0-3 de este martes fue un duro golpe para el ánimo del plantel. 
 
 Barcelona volvió a perder en casa contra el Bayern Múnich, en la Liga de Campeones, aunque no tan fuerte como el 2-8 de mediados del año pasado. Sin embargo, el 0-3 de este martes fue un duro golpe para el ánimo del plantel.
+
 ![cdx](https://user-images.githubusercontent.com/72399878/133373424-a8119932-8f41-4a07-9157-91d1ee396e5d.JPG)
+
 La derrota también le cayó muy mal a la prensa catalana, que dedica sus portadas del miércoles a la floja actuación del equipo que dirige el holandés Ronald Koeman. 
 Sport titula con una frase cargada de resignación: "La triste realidad". Y agrega en el sumario: "El Barça jugó como un equipo pequeño y mostró todas sus carencias ante un Bayern que fue muy superior". "Los blaugranas dejaron claro que están, en estos momentos, muy lejos de los mejores equipos de la Champions", agregó Sport.
 La caída frente a los bávaros puso de relieve la crisis deportiva, económica e institucional del club: quiebra absoluta, sin grandes figuras, estilo en decadencia y dependiendo de jóvenes. Aquella brillantez del pasado, parece haberse esfumado por completo.
