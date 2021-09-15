@@ -77,6 +77,9 @@ El colectivo de ciberactivistas Anonymous le declaró la guerra al presidente de
 
 “Es importante que este 7 de septiembre salgamos a las calles para demostrar que lo queremos fuera del gobierno, derrotado. Según sus propias palabras, solo le quedan dos opciones: la cárcel o la tumba. Necesitamos mostrar que las minorías, cuando están juntas bajo la misma bandera, son la mayoría. Necesitamos un verdadero grito de independencia para que esta fecha vuelva a pasar a la historia. Y estaremos entre ustedes”, continuó Anonymous. Entre tanto, para este martes también están convocadas manifestaciones en apoyo a Bolsonaro. 
 
+![anonymous_wall_62](https://user-images.githubusercontent.com/72399878/133372310-7b0f7063-f6bd-4283-816a-b5fb1e8762cf.png)
+
+
 
 
 
