@@ -1,6 +1,6 @@
 # Anoninews
 
-# Tecnologia
+##Tecnologia##
 
 ### Tecnologia: Inteligencia Artificial ###
 
