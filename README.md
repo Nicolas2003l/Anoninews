@@ -71,6 +71,11 @@ La llamada, relativamente larga, duró 90 minutos y se celebró por iniciativa d
 
 ## Anonymous le declara la guerra a Bolsonaro y convoca manifestaciones en su contra para este martes ##
 
+El colectivo de ciberactivistas Anonymous le declaró la guerra al presidente de Brasil, Jair Bolsonaro, y convocó manifestaciones contra el mandatario para el Día de la Independencia del país, que se celebra este martes.
+
+“No nos quedaremos quietos mientras usted coquetea con un golpe. Se declara la guerra y le haremos pagar por sus crímenes. Las personas que mata son las personas de las que depende. Hacemos el pan que come, archivamos sus documentos, entregamos sus pedidos, estamos en todas partes”, señaló el grupo en un video dirigido a Bolsonaro. 
+
+“Es importante que este 7 de septiembre salgamos a las calles para demostrar que lo queremos fuera del gobierno, derrotado. Según sus propias palabras, solo le quedan dos opciones: la cárcel o la tumba. Necesitamos mostrar que las minorías, cuando están juntas bajo la misma bandera, son la mayoría. Necesitamos un verdadero grito de independencia para que esta fecha vuelva a pasar a la historia. Y estaremos entre ustedes”, continuó Anonymous. Entre tanto, para este martes también están convocadas manifestaciones en apoyo a Bolsonaro. 
 
 
 
