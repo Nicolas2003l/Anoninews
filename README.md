@@ -24,8 +24,13 @@ El Tesla Bot, el primer robot humanoide de la compañía.
 Esto es lo que sabemos del próximo gran proyecto de Tesla:
 
 Altura: 1,72 metros
+
 Peso: 57 kilos
+
 Velocidad máxima de desplazamiento: 8 km/h
+
 Kilos que puede levantar en peso muerto: hasta 68 kilos
+
 Kilos que puede transportar: hasta 20 kilos.
+
 Con un diseño externo ciertamente tan futurista como aséptico y un punto inquietante -parece un maniquí de exposición-, como señala su anuncio el robot es un dispositivo bípedo para "uso general", y que está destinado para llevar a cabo tareas "inseguras, repetitivas o aburridas" actualmente efectuadas por humanos.
