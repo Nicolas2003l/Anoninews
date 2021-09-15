@@ -1,6 +1,6 @@
 # Anoninews
 
-**Tecnologia**
+**Tecnologia: Inteligencia Artificial**
 
 
 **Microsoft abrirá en Barcelona un centro de I+D centrado en inteligencia artificial**
