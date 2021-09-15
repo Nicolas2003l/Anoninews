@@ -1,6 +1,6 @@
 # Anoninews
 
-**Tecnologia: Inteligencia Artificial**
+# Tecnologia: Inteligencia Artificial
 
 
 **Microsoft abrirá en Barcelona un centro de I+D centrado en inteligencia artificial**
@@ -11,7 +11,7 @@ La compañía tiene previsto reclutar a un centenar de profesionales para person
 Microsoft instalará en Barcelona un centro de investigación en inteligencia artificial para mejorar la experiencia de usuario en sus productos web, como el buscador Bing y los servicios en la nube Windows Azure. El centro contará en su fase inicial con 30 profesionales expertos en aprendizaje automático —las ofertas de trabajo ya están publicadas— y espera llegar a un centenar en los próximos años en una estrategia que pretende reclutar talento en toda Europa.
 
 
-**Tecnologia:Robotica**
+#Tecnologia:Robotica
 
 Elon Musk nos tiene acostumbrados a sorpresas, ya sea un lanzallamas, unos cohetes espaciales capaces de aterrizar en el sitio exacto del que despegaron, un tren que se desplaza dentro de un túnel a mil kilómetros por hora, un coche Tesla que va a poner en órbita o una camioneta que parece sacada de un film futurista de los 80. Pero desde luego, a pesar de que sus empresas manejan la tecnología más puntera y vanguardista, no nos esperábamos lo de esta semana.
 
