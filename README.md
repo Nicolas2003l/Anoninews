@@ -35,7 +35,7 @@ Kilos que puede transportar: hasta 20 kilos.
 
 Con un diseño externo ciertamente tan futurista como aséptico y un punto inquietante -parece un maniquí de exposición-, como señala su anuncio el robot es un dispositivo bípedo para "uso general", y que está destinado para llevar a cabo tareas "inseguras, repetitivas o aburridas" actualmente efectuadas por humanos.
 
-#Politica:Colombia
+# Politica:Colombia
 
 El presidente Iván Duque dio un auto-diagnóstico de su Gobierno en una entrevista a El Tiempo el domingo, justo después de una semana agridulce políticamente: la coalición aprobó su reforma tributaria, pero a las 24 horas por falta de apoyo político, el mandatario tuvo que pedirle la renuncia a su amiga y ministra, Karen Abudinen.
 
