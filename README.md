@@ -112,6 +112,21 @@ Tanta es la preocupación que diarios locales no tuvieron piedad con el equipo d
 ‘AS’ tituló: “OTRO BAÑO”, con la imagen de Robert Lewandowski y Gerard Piqué de fondo. “El Bayern vuelve a pasar por encima del equipo de Koeman. Ni un solo disparo de los azulgranas en todo el partido. Doblete de Lewandowski. Piqué y su técnico se resignan: ‘Esto es lo que hay ahora’”, amplió el medio.
 ‘Mundo Deportivo’ fue un poco más austero y tituló con el ya aclamado “ES LO QUE HAY”, de Piqué. “El Bayern volvió a evidenciar su superioridad ante un Barça impotente... La entrada de los jóvenes, lo único positivo de un equipo que no chutó entre los tres palos”, se complementó.
 
+## Futbol:Europa ##
+
+### Balonazo de Cristiano a un agente de seguridad en Champions ###
+
+En su regreso a la Liga de Campeones, Cristiano Ronaldo marcó gol, pero también noqueó a una agente de seguridad.
+
+Durante el calentamiento el portugués, cinco veces Balón de Oro, se mostró activo con el balón.
+
+En uno de sus ejercicios lanzó una pelota con fuerza hacia una de las tribunas e impactó en la cabeza de una de las operadoras logísticas.
+
+En el vídeo se ve que la mujer intenta recostarse por el mareo que le produjo el impacto y debió ser asistida por sus compañeros. Cuando Cristiano Ronaldo se percató de lo ocurrido, se acercó hasta el lugar y charló con ella para asegurarse de que todo estuviera bien.
+
+![documentation-fotos-1-9994695_38538742_20210914185906](https://user-images.githubusercontent.com/72399878/133373962-3d836f64-89f0-4d10-bd59-d28c8c4890c6.jpg)
+
+
 
 
 
