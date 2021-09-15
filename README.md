@@ -93,5 +93,23 @@ El sistema está basado en Codex, un nuevo sistema de inteligencia artificial cr
 ![1366_2000](https://user-images.githubusercontent.com/72399878/133372613-48982ff3-c5fd-40ce-8ae1-0305bc3ba1dd.jpeg)
 
 
+# Deportes
+
+##Los azulgranas volvieron a salir goleados del Camp Nou##
+
+
+Barcelona volvió a perder en casa contra el Bayern Múnich, en la Liga de Campeones, aunque no tan fuerte como el 2-8 de mediados del año pasado. Sin embargo, el 0-3 de este martes fue un duro golpe para el ánimo del plantel. 
+
+Barcelona volvió a perder en casa contra el Bayern Múnich, en la Liga de Campeones, aunque no tan fuerte como el 2-8 de mediados del año pasado. Sin embargo, el 0-3 de este martes fue un duro golpe para el ánimo del plantel. 
+La derrota también le cayó muy mal a la prensa catalana, que dedica sus portadas del miércoles a la floja actuación del equipo que dirige el holandés Ronald Koeman. 
+Sport titula con una frase cargada de resignación: "La triste realidad". Y agrega en el sumario: "El Barça jugó como un equipo pequeño y mostró todas sus carencias ante un Bayern que fue muy superior". "Los blaugranas dejaron claro que están, en estos momentos, muy lejos de los mejores equipos de la Champions", agregó Sport.
+La caída frente a los bávaros puso de relieve la crisis deportiva, económica e institucional del club: quiebra absoluta, sin grandes figuras, estilo en decadencia y dependiendo de jóvenes. Aquella brillantez del pasado, parece haberse esfumado por completo.
+Tanta es la preocupación que diarios locales no tuvieron piedad con el equipo de Koeman. Reflejo de ello las certeras portadas para la edición del miércoles.
+‘AS’ tituló: “OTRO BAÑO”, con la imagen de Robert Lewandowski y Gerard Piqué de fondo. “El Bayern vuelve a pasar por encima del equipo de Koeman. Ni un solo disparo de los azulgranas en todo el partido. Doblete de Lewandowski. Piqué y su técnico se resignan: ‘Esto es lo que hay ahora’”, amplió el medio.
+‘Mundo Deportivo’ fue un poco más austero y tituló con el ya aclamado “ES LO QUE HAY”, de Piqué. “El Bayern volvió a evidenciar su superioridad ante un Barça impotente... La entrada de los jóvenes, lo único positivo de un equipo que no chutó entre los tres palos”, se complementó.
+
+
+
+
 
 
