@@ -1,6 +1,3 @@
-<span style="color: green"> Some green text </span>
-
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
 
 # Anoninews
 
