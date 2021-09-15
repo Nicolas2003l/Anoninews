@@ -5,7 +5,7 @@
 ### Tecnologia: Inteligencia Artificial ###
 
 
-**Microsoft abrirá en Barcelona un centro de I+D centrado en inteligencia artificial**
+## Microsoft abrirá en Barcelona un centro de I+D centrado en inteligencia artificial ##
 
 La compañía tiene previsto reclutar a un centenar de profesionales para personalizar la navegación en sus productos web
 ![UHEQYV4IRNCQYSMMKNVRIJL3GI](https://user-images.githubusercontent.com/72399878/133369511-52b8ff96-2ff0-4819-aa53-56011f99d45b.jpg)
@@ -14,6 +14,8 @@ Microsoft instalará en Barcelona un centro de investigación en inteligencia ar
 
 
 ### Tecnologia:Robotica ###
+
+## Elon musk lanzó tesla bot ##
 
 Elon Musk nos tiene acostumbrados a sorpresas, ya sea un lanzallamas, unos cohetes espaciales capaces de aterrizar en el sitio exacto del que despegaron, un tren que se desplaza dentro de un túnel a mil kilómetros por hora, un coche Tesla que va a poner en órbita o una camioneta que parece sacada de un film futurista de los 80. Pero desde luego, a pesar de que sus empresas manejan la tecnología más puntera y vanguardista, no nos esperábamos lo de esta semana.
 
@@ -41,9 +43,11 @@ Con un diseño externo ciertamente tan futurista como aséptico y un punto inqui
  
 ### Politica:Colombia ###
 
-El presidente Iván Duque dio un auto-diagnóstico de su Gobierno en una entrevista a El Tiempo el domingo, justo después de una semana agridulce políticamente: la coalición aprobó su reforma tributaria, pero a las 24 horas por falta de apoyo político, el mandatario tuvo que pedirle la renuncia a su amiga y ministra, Karen Abudinen.
+##El presidente Iván Duque dio un auto-diagnóstico de su Gobierno ##
+En una entrevista a El Tiempo el domingo, justo después de una semana agridulce políticamente: la coalición aprobó su reforma tributaria, pero a las 24 horas por falta de apoyo político, el mandatario tuvo que pedirle la renuncia a su amiga y ministra, Karen Abudinen.
 
 ![ivan-duque-la-ministra-karen-abudinen-es-una-mujer-honorable-y-trabajadora-942370](https://user-images.githubusercontent.com/72399878/133370673-64ea3949-4a4c-48a7-8e56-da27c1225d08.jpg)
+
 
 
 Duque hizo una férrea defensa de su gestión. Y reveló, una vez más, una imagen propia y de su mandato lejana de la que tienen la mayoría de colombianos.
@@ -55,7 +59,19 @@ Varias de las respuestas que entregó a El Tiempo muestran ese carácter. Una de
 
 ### Politica: Internacional ###
 
-Biden y Xi dialogan para evitar el “conflicto” en una rivalidad cada vez más tensa
+##Biden y Xi dialogan para evitar el “conflicto” en una rivalidad cada vez más ##
+
+Los presidentes de Estados Unidos y China conversan por teléfono por segunda vez desde la llegada al poder del mandatario norteamericano
+
+![VXYYTD4BGFFZVNB6NZ5RHDJBEM](https://user-images.githubusercontent.com/72399878/133371521-0f0068fe-21b4-4ae8-bea9-c51ded9ef389.jpg)
+
+El presidente de EE UU, Joe Biden, y el de China, Xi Jinping, han conversado por teléfono este viernes para tratar de relanzar una relación bilateral cada vez más tensa y llena de rivalidad, y evitar que los desacuerdos puedan acabar degenerando en un conflicto de consecuencias incalculables. La charla era solo la segunda entre los dos líderes desde el comienzo del mandato del demócrata en Washington a comienzos de este año: la primera había tenido lugar en febrero, poco después de la investidura.
+
+La llamada, relativamente larga, duró 90 minutos y se celebró por iniciativa de la Casa Blanca, frustrada ante la falta de progresos hasta ahora en cada ronda de contactos de sus respectivos altos funcionarios. La idea central de la conversación era examinar cómo sacar adelante en el futuro próximo la relación entre los dos Gobiernos más poderosos del mundo y evitar que los desacuerdos puedan llegar a quedar fuera de control.
+
+##Anonymous le declara la guerra a Bolsonaro y convoca manifestaciones en su contra para este martes
+##
+
 
 
 
