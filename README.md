@@ -43,7 +43,7 @@ Con un diseño externo ciertamente tan futurista como aséptico y un punto inqui
  
 ### Politica:Colombia ###
 
-##El presidente Iván Duque dio un auto-diagnóstico de su Gobierno ##
+## El presidente Iván Duque dio un auto-diagnóstico de su Gobierno ##
 En una entrevista a El Tiempo el domingo, justo después de una semana agridulce políticamente: la coalición aprobó su reforma tributaria, pero a las 24 horas por falta de apoyo político, el mandatario tuvo que pedirle la renuncia a su amiga y ministra, Karen Abudinen.
 
 ![ivan-duque-la-ministra-karen-abudinen-es-una-mujer-honorable-y-trabajadora-942370](https://user-images.githubusercontent.com/72399878/133370673-64ea3949-4a4c-48a7-8e56-da27c1225d08.jpg)
@@ -59,7 +59,7 @@ Varias de las respuestas que entregó a El Tiempo muestran ese carácter. Una de
 
 ### Politica: Internacional ###
 
-##Biden y Xi dialogan para evitar el “conflicto” en una rivalidad cada vez más ##
+## Biden y Xi dialogan para evitar el “conflicto” en una rivalidad cada vez más ##
 
 Los presidentes de Estados Unidos y China conversan por teléfono por segunda vez desde la llegada al poder del mandatario norteamericano
 
@@ -69,8 +69,7 @@ El presidente de EE UU, Joe Biden, y el de China, Xi Jinping, han conversado por
 
 La llamada, relativamente larga, duró 90 minutos y se celebró por iniciativa de la Casa Blanca, frustrada ante la falta de progresos hasta ahora en cada ronda de contactos de sus respectivos altos funcionarios. La idea central de la conversación era examinar cómo sacar adelante en el futuro próximo la relación entre los dos Gobiernos más poderosos del mundo y evitar que los desacuerdos puedan llegar a quedar fuera de control.
 
-##Anonymous le declara la guerra a Bolsonaro y convoca manifestaciones en su contra para este martes
-##
+## Anonymous le declara la guerra a Bolsonaro y convoca manifestaciones en su contra para este martes ##
 
 
 
